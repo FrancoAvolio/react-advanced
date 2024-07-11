@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "Nombre": "Franco Avolio",
+    "Edad": "30",
+    "Correo Electrónico": "franco.avolio@example.com"
+  },
+  {
+    "id": "2",
+    "Nombre": "Ana Pérez",
+    "Edad": "25",
+    "Correo Electrónico": "ana.perez@example.com"
+  },
+  {
+    "id": "3",
+    "Nombre": "Luis Gómez",
+    "Edad": "28",
+    "Correo Electrónico": "luis.gomez@example.com"
+  }
+]
